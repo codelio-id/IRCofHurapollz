@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "421124780853",
+    "firebase_url": "https://irc-hurapollz.firebaseio.com",
+    "project_id": "irc-hurapollz",
+    "storage_bucket": "irc-hurapollz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421124780853:android:54aec456ac31822166527c",
+        "android_client_info": {
+          "package_name": "com.jabirdeveloper.ircofhurapollz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421124780853-318logjdkv8q3g4ggn0pkvor4m4dmlca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0ztAOvmeYvTFbTntV7wT1MD0bG5yGZS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421124780853-318logjdkv8q3g4ggn0pkvor4m4dmlca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

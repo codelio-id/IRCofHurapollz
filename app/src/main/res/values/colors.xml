@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FE0000</color>
+    <color name="colorPrimaryDark">#D40000</color>
+    <color name="colorAccent">#FE0000</color>
+
+    <color name="colorBottomNavBg">#FFFFFF</color>
+
+    <color name="unselectedTabColor">#80FFFFFF</color>
+    <color name="colorBlack80Alpha">#CC000000</color>
+    <color name="colorShadow">#80EEEEEE</color>
+    <color name="colorDrawerItem">#212121</color>
+    <color name="colorBgItemDrawer">#1AFE0000</color>
+    <color name="colorBGPilihanEditor">#EFEFEF</color>
+    <color name="colorBgRefreshLayout">#FFFFFF</color>
+    <color name="colorBgInputSearch">#FFFFFF</color>
+    <color name="colorTextSearch">#212121</color>
+    <color name="colorBgBookmark">#FFFFFF</color>
+    <color name="colorBgTextSlider">#99000000</color>
+    <color name="colorBgSheet">#EFEFEF</color>
+    <color name="colorBgBottomSheet">#FFFFFF</color>
+    <color name="colorBgShimmer">#E0E0E0</color>
+    <color name="colorBgAttribution">#FFCC66</color>
+    <color name="colorTextAttribution">#FFFFFF</color>
+    <color name="colorBatas">#BEBEBE</color>
+    <color name="colorTeksMoivasi">#FFFFFF</color>
+    <color name="grey">#d4d4d4</color>
+</resources>

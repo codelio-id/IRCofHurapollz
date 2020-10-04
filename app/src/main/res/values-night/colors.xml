@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5656</color>
+    <color name="colorPrimaryDark">#FF5656</color>
+    <color name="colorAccent">#FF5656</color>
+    <color name="colorBottomNavBg">#212121</color>
+    <color name="colorShadow">#80000000</color>
+    <color name="colorDrawerItem">#FFFFFF</color>
+    <color name="colorBGPilihanEditor">#212121</color>
+    <color name="colorBgRefreshLayout">#212121</color>
+    <color name="colorBgBookmark">#121212</color>
+    <color name="colorBgSheet">#3D3D3D</color>
+    <color name="colorBgBottomSheet">#212121</color>
+    <color name="colorTextAttribution">#212121</color>
+    <color name="colorBgShimmer">#3D3D3D</color>
+    <color name="colorBatas">#3D3D3D</color>
+    <color name="colorTeksMoivasi">#121212</color>
+    <color name="grey">#404040</color>
+</resources>

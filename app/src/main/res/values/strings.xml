@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">IR. Creativity</string>
+
+    <!-- AdMob Configuration -->
+    <string name="admob_test_device">8BDD59585C7B2AF0EB0066F9B9FE5D76</string>
+    <string name="admob_id">ca-app-pub-3053135124033214~1894519768</string>
+    <string name="admob_native">ca-app-pub-3053135124033214/9389866402</string>
+    <string name="admob_interstitial">KODE_IKLAN</string>
+    <!-- End AdMob Configuration -->
+
+    <string-array name="list_kategori">
+        <item>Cerpen</item>
+        <item>History</item>
+        <item>Puisi</item>
+        <item>Creepypasta</item>
+        <item>Knowledge</item>
+        <item>Riddle</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="list_id_kategori">
+        <item>90</item>
+        <item>92</item>
+        <item>96</item>
+        <item>91</item>
+        <item>93</item>
+        <item>97</item>
+        <item>1</item>
+    </string-array>
+
+    <string name="nav_header_title">\u00A9 2019 &#8211; 2020 Hurapollz.net</string>
+    <string name="nav_header_subtitle">All rights reserved</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_terkini">Terkini</string>
+    <string name="menu_history">History</string>
+    <string name="menu_creepypasta">Creepypasta</string>
+    <string name="menu_knowledge">Knowledge</string>
+    <string name="menu_riddle">Riddle</string>
+    <string name="menu_others">Others</string>
+    <string name="menu_bookmark">Bookmark</string>
+    <string name="menu_setting">Setting</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="image_thumbnail">Thumbnail</string>
+    <string name="menu_drawer_buka">OPEN</string>
+    <string name="meun_drawer_tutup">CLOSE</string>
+    <string name="search_hint">Search…</string>
+    <string name="pilihan_editor">#IRC_Pilihan</string>
+    <string name="tv_hapus">Hapus</string>
+    <string name="item_dihapus">Item dihapus</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="menu_puisi">Puisi</string>
+    <string name="menu_cerpen">Cerpen</string>
+    <string name="copyright">\u00A9 2019 &#8211; 2020 Hurapollz.net</string>
+    <string name="tulis_komentar">Tulis komentar...</string>
+    <string name="input_nama">Nama</string>
+    <string name="input_email">Email</string>
+    <string name="input_website">Website</string>
+    <string name="btn_submit">Submit</string>
+    <string name="dialog_notifikasi">Notifikasi</string>
+    <string name="dialog_mode_gelap">Mode Gelap</string>
+    <string name="menu_kontribusi">Kontribusi</string>
+    <string name="all_right_reserved">All Right Reserved</string>
+    <string name="btn_privacy">Privacy</string>
+    <string name="btn_contact">Contact</string>
+    <string name="btn_about">About</string>
+    <string name="teks_memuat">Memuat…</string>
+    <string name="motivation">Motivation</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="ditulis_oleh">Ditulis oleh:</string>
+    <string name="kategori">Kategori</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="login_title">Silahkan Login Terlebih Dahulu</string>
+    <string name="contribute">Publikasikan Karyamu</string>
+    <string name="contribute_btn">Publikasi</string>
+    <string name="title">Judul</string>
+    <string name="choose_category">Pilih Kategori</string>
+    <string name="write_content">Tulis Konten</string>
+    <string name="add_image">Tambah Gambar</string>
+    <string name="logout">Logout</string>
+    <string name="username">Username</string>
+    <string name="password2">Ulangi Password</string>
+    <string name="e_mail">E-mail</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+</resources>

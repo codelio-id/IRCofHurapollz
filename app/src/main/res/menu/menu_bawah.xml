@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/menu_terkini" />
+    <item
+        android:id="@+id/menu_bookmark"
+        android:icon="@drawable/ic_collections_bookmark_black_24dp"
+        android:title="@string/menu_bookmark" />
+    <item
+        android:id="@+id/menu_kontribusi"
+        android:icon="@drawable/ic_create_black_24dp"
+        android:title="@string/menu_kontribusi" />
+    <item
+        android:id="@+id/menu_setting"
+        android:icon="@drawable/ic_settings_black_24dp"
+        android:title="@string/menu_setting" />
+
+</menu>
